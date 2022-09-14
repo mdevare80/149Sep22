@@ -1,0 +1,26 @@
+main: de.lukasp1505.mchristmas.main.Main
+name: MChristmas-Plugin
+version: 1.0
+author: LukasP1505
+
+commands:
+  eventmenu:
+    description: Start event
+    aliases:
+    - em
+  resetevent:
+    description: Reset Event
+    aliases:
+    - rs
+  megaphone:
+    description: Use admin megaphone
+    aliases:
+    - m
+  event:
+    description: Teleport to event
+  info:
+    description: Show plugin info
+  sendpos:
+    description: Send current position to another player
+    aliases:
+    - sp
